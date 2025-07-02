@@ -1,4 +1,4 @@
-import './app-info.scss'
+import './app-info.css'
 
 const AppInfo = ({ allMoviesCount, favouriteMovieCount }) => {
 	return (
